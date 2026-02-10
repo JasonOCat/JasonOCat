@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Jason
 
-<!--
-**JasonOCat/JasonOCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance Java / Spring Boot developer with 8+ years of experience on
+production systems for large organizations.
 
-Here are some ideas to get you started:
+### 🧰 Tech stack
+- Java, Spring Boot
+- REST APIs, JWT, OAuth2
+- PostgreSQL, MySQL, MongoDB
+- Docker, CircleCI, ArgoCD, GitHub Actions
+- Angular (operational knowledge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I value
+- Clean, readable, testable code
+- Systems that work reliably in production
+- Simple and maintainable architecture
